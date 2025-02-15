@@ -1,6 +1,6 @@
 # Simple-knn
 
-The code is edited and adapted from the simple-knn submodule from https://github.com/graphdeco-inria/gaussian-splatting.
+The code is partially edited and adapted from the simple-knn submodule at https://github.com/graphdeco-inria/gaussian-splatting.
 
 This code repository is only used for the academic-purpose code release of [StreetUnveiler](https://arxiv.org/abs/2405.18416)
 
