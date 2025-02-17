@@ -11,7 +11,7 @@ If you find the code in this repo helpful, please kindly consider cite:
 ```
 @inproceedings{xu2025streetunveiler,
   author       = {Jingwei Xu and Yikai Wang and Yiqun Zhao and Yanwei Fu and Shenghua Gao},
-  title        = {3D StreetUnveiler with Semantic-Aware 2DGS},
+  title        = {3D StreetUnveiler with Semantic-aware 2DGS - a simple baseline},
   booktitle    = {The International Conference on Learning Representations (ICLR)},
   year         = {2025},
 }
